@@ -1,6 +1,6 @@
 # Guessing Game Project
 Makefile Run at :
-04-27-2020 00:37:15
+04-27-2020 00:40:08
 
-guessinggame.sh contains the following number of entries:
+guessinggame.sh contains the following number of line of code:
 34
